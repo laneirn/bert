@@ -17,3 +17,8 @@
 2、添加了全词mask：
 `
 Example： 我爱吃XXX ， 今天你跟XXX干啥了？`
+
+
+# DistilBERT
+知识蒸馏
+把没用的参数减去，效率更快
