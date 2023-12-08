@@ -1,4 +1,4 @@
-### ALBERT模型
+# ALBERT模型
 ## Way：
 减少BERT的Embeeding维度来提高速率
 
@@ -10,6 +10,6 @@ Layer越多越好
 
 
 
-### RoBERTa
+# RoBERTa
 Bert在训练中随机15%词汇被mask掉，在每次epoch训练时，mask是固定的。
-# 改进： 将静态的mask 改为动态
+## 改进： 将静态的mask 改为动态
