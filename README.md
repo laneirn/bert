@@ -11,5 +11,5 @@ Layer越多越好
 
 
 # RoBERTa
-Bert在训练中随机15%词汇被mask掉，在每次epoch训练时，mask是固定的。
-## 改进： 将静态的mask 改为动态
+## 改进： 将静态mask 改为动态mask
+` Bert在训练中随机15%词汇被mask掉，在每次epoch训练时，mask是固定的。` 
