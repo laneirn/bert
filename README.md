@@ -1,5 +1,5 @@
 ### ALBERT模型
-
+Bert在训练中随机15%词汇被mask掉，
 Way：
 减少BERT的Embeeding维度来提高速率
 
